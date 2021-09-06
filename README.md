@@ -1,4 +1,14 @@
-# A basic portfolio for developers
+# A basic portfolio for developers  
+The Project is a personal profile website.
+I created and structured this website enabling you to easily get to know me and my Achievements.
+JavaScript Html and CSS.
+
+
+
+
+
+
+
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -100,4 +110,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Support
 
-If you love this Next js template and want to support me, you can do so through my GitHub profile. 
+If you love this Next js template and want to support me, you can do so through my GitHub profile. https://github.com/kalsangzero
